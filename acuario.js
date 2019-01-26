@@ -2,7 +2,7 @@
 
   function spseok(ok){
     var data = { url: ok.responseURL, json: ok.response };
-    var donde = "http://127.0.0.1/patrim/pruebas/acuario/";
+    var donde = "http://www.nuestrosur.com/sp/acuario/chrome/";
     $.post( donde, data )
         .done(function( data ) {
             //alert( "Data Loaded: " + data );
