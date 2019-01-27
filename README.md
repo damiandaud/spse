@@ -1,3 +1,3 @@
 # spse
 
-Proyectos publicos para SPSE
+Proyectos públicos para SPSE
